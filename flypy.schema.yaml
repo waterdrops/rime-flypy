@@ -14,6 +14,23 @@ schema:
 
 punctuator:
   import_preset: default
+  half_shape:
+      "#": "#"
+      "*": "*"
+      "`": "`"
+      "~": "~"
+      "@": "@"
+      "=": "="
+      '\': "、"
+      "%": "%"
+      "$": ["¥", "$", "€", "£", "¢", "¤"]
+      "|": ["|", "｜", "·", "・", "§", "¦", "‖", "︴"]
+      "/": ["/", "÷"]
+      "'": { pair: ["「", "」"] }
+      "[": ["【", "〔", "［"]
+      "]": ["】", "〕", "］"]
+      "<": "《"
+      ">": "》"
 
 switches:
   - name: ascii_mode
@@ -26,7 +43,7 @@ switches:
     reset: 0
   - name: ascii_punct
     states: [。，, ．，]
-    reset: 1
+    reset: 0
 
 engine:
   processors:

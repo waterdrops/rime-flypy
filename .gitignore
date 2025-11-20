@@ -1,6 +1,8 @@
 .DS_Store
-build
+build/
 installation.yaml
 user.yaml
 luna_pinyin.userdb
 easy_en.userdb
+sync/
+
