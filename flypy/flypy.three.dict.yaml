@@ -1,7 +1,7 @@
 # 三码填空
 ---
 name: flypy.three
-version: "10.13.2"
+version: "10.26.1"
 use_preset_vocabulary: false
 ...
 截个屏	jgp
@@ -42,7 +42,7 @@ use_preset_vocabulary: false
 挨打	aid
 爱国	aig
 爱好	aih
-哀愁	aii
+暗戳戳	aii
 按常理	ail
 爱慕	aim
 爱情	aiq
@@ -659,6 +659,7 @@ AA制	aav
 刁蛮	dnm
 刁难	dnn
 调任	dnr
+掉色	dns
 掉头	dnt
 掉下	dnx
 掉在	dnz
@@ -1181,7 +1182,7 @@ AA制	aav
 观看	grk
 观念	grn
 关切	grq
-宫娥	gse
+共轭	gse
 功能	gsn
 供求	gsq
 公司	gss
@@ -1209,6 +1210,7 @@ AA制	aav
 给钱	gwq
 给人	gwr
 个位数	gwu
+给予	gwy
 剐蹭	gxc
 挂断	gxd
 挂钩	gxg
@@ -1279,7 +1281,6 @@ AA制	aav
 会不会	hbh
 环保局	hbj
 还不快	hbk
-花不了	hbl
 还不能	hbn
 回不去	hbq
 好半天	hbt
@@ -2158,7 +2159,7 @@ AA制	aav
 龙凤胎	lft
 两分钟	lfv
 两个半	lgb
-冷藏	lgc
+两个词	lgc
 驴肝肺	lgf
 泸沽湖	lgh
 理工科	lgk
@@ -4856,7 +4857,7 @@ AA制	aav
 用脑	ysn
 粤菜	ytc
 英雄难过美人关	yxn
-一座座	yzz
+又在	yzz
 咋地	zad
 咋搞	zag
 杂货	zah
@@ -4963,6 +4964,7 @@ AA制	aav
 做到	zod
 做好	zoh
 作出	zoi
+做了	zol
 作弄	zon
 作曲	zoq
 作祟	zos
